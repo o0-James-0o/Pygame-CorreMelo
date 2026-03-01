@@ -4,6 +4,9 @@
 
 Este projeto tem como objetivo o **desenvolvimento de um jogo 2D arcade** utilizando **Pygame**, enquanto exploramos funções e algoritmos essenciais para criar a mecânica e interatividade do jogo. O estudo será feito na plataforma **NotebookLM** do Google, onde vamos aprender e aplicar os conceitos de **grafismo**, **transformações geométricas** e **interação com o usuário**.
 
+Acesse o **NotebookLM** para acompanhar o desenvolvimento e os aprendizados:  
+[NotebookLM - Estudo Pygame](https://notebooklm.google.com/notebook/f673001c-1397-4b09-ab53-9e98dd8cf944?authuser=2)
+
 ## 🚀 Objetivos do Estudo
 
 Vamos estudar e implementar:
@@ -26,7 +29,7 @@ Vamos estudar e implementar:
 ## 🧑‍💻 Tecnologias
 
 - **Pygame**: Biblioteca para criação do jogo 2D.
-- **Python 3.13**: Linguagem para lógica e algoritmos.
+- **Python 3.x**: Linguagem para lógica e algoritmos.
 - **NotebookLM**: Plataforma de aprendizado para explorar o Pygame.
 
 ---
